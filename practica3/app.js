@@ -4,7 +4,7 @@ const readline = require("readline")
 
 const InterfazConsola = readline.createInterface({
     input : process.stdin,
-    output : process.stdin
+    output : process.stdout
 })
 
 InterfazConsola.question("por favor ingrese el primer numero", (num1) => {
