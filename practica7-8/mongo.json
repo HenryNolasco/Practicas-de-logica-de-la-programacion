@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "e3ddfc1a-27e1-483f-9093-6ce26287ac5f",
+      "name": "Henry",
+      "lastname": "Henry",
+      "dui": "5543333",
+      "correo": "henry@gmail.com"
+    },
+    {
+      "id": "b556f670-1f01-4012-ac10-ce9e8ae3f0b2",
+      "name": "Jose",
+      "lastname": "Lovo",
+      "dui": "123456789",
+      "correo": "hen@gmail.com"
+    }
+  ]
+}
